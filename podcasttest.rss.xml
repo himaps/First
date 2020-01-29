@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
+    <title>樊登读书2013-2019合集</title>
+    <description>樊登读书2013年至2019年音频合集,官网直采</description>
+    <language>cn-zh</language>
+    <image>
+      <url>http://www.fandengread.com/images/001.jpg</url>
+      <title>读书改变生活</title>
+    </image>
+    <item>
+      <guid isPermaLink="true">https://www.greenshield.ca/en-ca/podcast/episode-21-on-air-with-stephen-frank-again</guid>
+      <title>万古江河-许倬云</title>
+      <description>一口气听完中国史，一本书塑造身为中国人的文化自信！</description>
+      <pubDate>2018-08-04</pubDate>
+      <enclosure url="https://cdn-ali.dushu.io/audio/full/83c6ba06424341470b0ef80939053268_4e2a3d.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
